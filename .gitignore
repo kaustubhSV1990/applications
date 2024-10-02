@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# But keep track of this one
+!/important.log
+
+# Ignore all files in the build/ director
+react/tic-tac-toe/node-modules/
