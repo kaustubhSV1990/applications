@@ -5,4 +5,4 @@
 !/important.log
 
 # Ignore all files in the build/ director
-react/tic-tac-toe/node-modules/
+react/tic-tac-toe/node_modules/
